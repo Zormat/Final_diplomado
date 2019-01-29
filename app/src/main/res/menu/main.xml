@@ -1,0 +1,12 @@
+
+
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item
+        android:id="@+id/menu_favorites"
+        android:icon="@drawable/pokeball"
+        android:orderInCategory="200"
+        android:title="@string/favorites"
+        app:showAsAction="ifRoom|withText" />
+</menu>
+

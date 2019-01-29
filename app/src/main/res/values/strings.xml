@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Pokedex</string>
+    <string name="pokemon_name">Nombre</string>
+    <string name="pokemon_type">Tipo</string>
+    <string name="pokemon_weight">Peso</string>
+    <string name="pokemon_height">Altura</string>
+    <string name="pokemon_HP">HP</string>
+    <string name="pokemon_attack">Ataque</string>
+    <string name="pokemon_defense">Defensa </string>
+    <string name="pokemon_spattack">Ataque especial</string>
+    <string name="pokemon_spdefense">Defensa especial</string>
+    <string name="pokemon_speed">Velocidad</string>
+    <string name="title_activity_infopokemon">infopokemon</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="favorites">Favorites</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="inicio">Home</string>
+    <string name="buscar">Search</string>
+    <string name="camara">Camera</string>
+    <string name="favoritos">Favorites</string>
+    <string name="perfil">Profile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_opciones_act">opciones_act</string>
+
+</resources>

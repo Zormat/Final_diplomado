@@ -1,0 +1,44 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimaryDark</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="listapokemon">#ff0000</item>
+        <item name="backgroundcolor">#0096ff</item>
+        <item name="textcolor">#fff</item>
+        <item name="fondofragment">#fff</item>
+    </style>
+
+
+    <style name="night" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#1f4779</item>
+        <item name="colorPrimaryDark">#000</item>
+        <item name="listapokemon">#760000</item>
+        <item name="backgroundcolor">#0063a9</item>
+        <item name="textcolor">#fff</item>
+        <item name="fondofragment">#5b94b4</item>
+
+
+    </style>
+
+
+    <style name="AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="StatBar" parent="android:Widget.Material.ProgressBar.Horizontal">
+
+    </style>
+
+    <style name="WindowAnimationTransition">
+        <item name="android:windowEnterAnimation" >@android:anim/fade_in</item>
+        <item name="android:windowExitAnimation">@android:anim/fade_out</item>
+
+    </style>
+
+
+
+</resources>
