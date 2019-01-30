@@ -1,4 +1,6 @@
-# Final_diplomado
+# Pokedex (Tarea Final Diplomado)
+
+![alt text](https://raw.githubusercontent.com/Zormat/Final_diplomado/master/01.PNG)
 
 Para este proyecto usamos lo siguiente: 
 Esta APP Muestra los primeros 151 Pokémones de la lista Pokeapi, estos serían los Pokemones  de la primera generación Pokemon
