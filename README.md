@@ -12,4 +12,3 @@ Esta APP Muestra los primeros 151 Pokémones de la lista Pokeapi, estos serían 
 5.	En la pantalla de configuración usamos SharedPreferences para poder darle al usuario la opción de guardar el modo nocturno que consiste en un estilo de colores diferentes con menos saturación, para que no sea molesto a los ojos cuando se use el APP en ambientes con poca iluminación.
 Puede ver un video de uso en :  https://www.youtube.com/watch?v=N1OyhXg0tpk  
 Codigo fuente: https://github.com/Zormat/Final_diplomado
-PD: Lo que más me encantó de este grupo es que por primera vez, pude estar en un aula donde todos hablábamos el mismo idioma.
