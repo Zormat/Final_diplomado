@@ -1,5 +1,6 @@
 # Pokedex (Tarea Final Diplomado)
 
+![alt text](https://raw.githubusercontent.com/Zormat/Final_diplomado/master/02.PNG)
 ![alt text](https://raw.githubusercontent.com/Zormat/Final_diplomado/master/01.PNG)
 
 Para este proyecto usamos lo siguiente: 
